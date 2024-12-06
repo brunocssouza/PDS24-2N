@@ -1,0 +1,12 @@
+1. Faça um retângulo vertical;
+2. Na borda esquerda interna do retângulo coloque pontos um embaixo do outro com espaçamento entre eles;
+3. Faça uma espiral na vertical que se conecte com os pontos interligando-os de modo que a espiral entre em um ponto e saia da borda esquerda retornando
+e continue se interligando com os pontos até o final;
+
+
+
+
+
+
+
+

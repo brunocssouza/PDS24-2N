@@ -1,0 +1,9 @@
+DUPLA: Bruno Cesar e Larissa Neitzke
+
+QUESTIONÁRIO:
+1. Que tipo de jogo você costuma jogar?
+2. Tem alguma parte em específico em que você teve dificuldades para passar?
+3. O que você achou da coloração do jogo?
+4. Quanto tempo demorou para completar o jogo?
+5. Qual sistema operacional você está usando?
+6. Você encontrou algum bug?

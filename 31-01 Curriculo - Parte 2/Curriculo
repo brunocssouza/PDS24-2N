@@ -161,9 +161,8 @@
 
     \begin{header}
         \fontsize{25 pt}{25 pt}\selectfont Bruno César Silva de Souza
-
         \vspace{5 pt}
-
+        
         \normalsize
         \mbox{Santa Teresa, São Leopoldo, RS}%
         \kern 5.0 pt%
@@ -173,169 +172,61 @@
         \kern 5.0 pt%
         \AND%
         \kern 5.0 pt%
-        \mbox{\hrefWithoutArrow{tel:+55-51-9-8358-1798}{051 9-83581798}}%
+        \mbox{\hrefWithoutArrow{tel:+55-51-9-8358-1798}{051 9-8358-1798}}
+        \kern 5.0 pt%
+        \AND%
+        \kern 5.0 pt%
         \mbox{\hrefWithoutArrow{https://linkedin.com/in/brunocssouza}{linkedin.com/in/brunocssouza}}%
         \kern 5.0 pt%
         \AND%
         \kern 5.0 pt%
         \mbox{\hrefWithoutArrow{https://github.com/brunocssouza}{github.com/brunocssouza}}%
     \end{header}
-
-    \vspace{5 pt - 0.3 cm}
-
-
-    \section{Objetivos}
-
-
-
-        
-       
-            Como graduado em Ciência de Dados, desejo desenvolver minhas habilidades em Java, SQL, Javascript, Python, HTML, CSS e entre outros. Possuo Inglês avançado.
-
     
+    \vspace{5 pt - 0.3 cm}
+    \section{Objetivos}
+        \hspace{8mm} Como graduado em Ciência de Dados, desejo desenvolver minhas habilidades em Java, SQL, Javascript, Python, HTML, CSS e entre outros. Possuo Inglês avançado.
+
     \section{Formação Acadêmica}
-
-    \begin{onecolentry}
-        \begin{highlightsforbulletentries}
-
-
-        \item Curso Técnico em Desenvolvimento de Sistemas - SENAC \\
-        Periodo: abril 2023 - Em andamento
-             \item Curso Técnico em Desenvolvimento de Sistemas - SENAC
-
-        
-        \item There are 7 unique entry types: 
-        \textit{BulletEntry}, \textit{TextEntry}, \textit{EducationEntry}, \textit{ExperienceEntry}, \textit{NormalEntry}, \textit{PublicationEntry}, and \textit{OneLineEntry}.
-
-        \item Select a section title, pick an entry type, and start writing your section!
-
-        \item \href{https://docs.rendercv.com/user_guide/}{Here}, you can find a comprehensive user guide for RenderCV.
-
-
-        \end{highlightsforbulletentries}
-    \end{onecolentry}
+        \begin{itemize}
+             \item Curso Técnico em Desenvolvimento de Sistemas - SENAC \\
+             Periodo: Abril 2023 - Em andamento
+            \item Graduação em Ciência de Dados e Análise de Comportamento - Unicesumar \\
+             Periodo: Fevereiro de 2022 - Setembro de 2024
+        \end{itemize}
 
     \section{Cursos}
+        \begin{itemize}
+             \item Infoglês - Unisinos (X horas) \\
+                Periodo: ?? - ??
+        \end{itemize}
 
-
-
-        
-    - Infoglês - Unisinos (X horas)
-  Periodo: ?? - ??
-
-    
     \section{Linguagens de Programação}
+        \begin{itemize}
+            \item Java (Básico): conhecimento de estruturação e síntaxes-bases.
+            \item R (Básico): capacidade de transformar conjuntos de dados em elaborados gráficos utilizando determinados parâmetros para prever certos resultados.
+            \item Python (Intermediário): experiência com bibiliotecas de elaboração de análise de dados, como Matplotlib e Pynum.
+            \item Javascript (Intermediário): desenvolvimento de front-end com HTML/CSS, criação de funcionalidades dinâmicas.
+            \item SQL (Intermediário): criação e manutenção de bancos de dados relacionais, manipulação e otimização de consultas com PostgreSQL.
+        \end{itemize}
+        
+    \section{Softwares de Desenvolvimento}
+        \begin{itemize}
+            \item VSCode (Avançado): domínio de configurações e amplo uso de extensões para otimizar o desenvolvimento.
+            \item GitHub (Avançado): controle de versão e colaboração em projetos com repositórios remotos.
+            \item PostgreSQL (Intermediário): ferramenta para design, modelagem e administração de banco de dados.
+        \end{itemize}
+        
+     \section{Idiomas}
+        \begin{itemize}
+            \item Inglês (Avançado): compreensão auditiva, escrita e conversativa fluida.
+            \item Espanhol (Básico): experiência inicial em abordagens audititivas e escritas.
+        \end{itemize}
 
-\begin{itemize}
-    \item Java (Básico): conhecimento de estruturação e síntaxes-bases.
-   \item  R (Básico): capacidade de transformar conjuntos de dados em elaborados gráficos utilizando determinados parâmetros para prever certos resultados.
-     \item  Python (Intermediário): experiência com bibiliotecas de elaboração de análise de dados, como Matplotlib e Pynum.
-     \item Javascript (Intermediário): desenvolvimento de front-end com HTML/CSS, integração de APIs, criação de funcionalidades dinâmicas.
-     \item  SQL (Intermediário): Criação e manutenção de bancos de dados relacionais, manipulação e otimização de consultas com MySQL e PostgreSQL.
-
-\end{itemize}
-
-Software de Desenvolvimento
-\begin{itemize}
-      \item VSCode (Avançado): edição configurável e experiência com diversas extensões.
-GitHub (Avançado): Controle de versão e colaboração em projetos com repositórios remotos.
-    \item PostgreSQL (Intermediário): Ferramenta para design, modelagem e administração de banco de dados.
-
+    \section{Certificações}
+    \begin{itemize}
+        \item Nivelamento de Língua Inglesa (C1 Advanced) - EF SET:  \\
+        Obtido em Fevereiro de 2020 | {\hrefWithoutArrow{https://cert.efset.org/mwhpdb}{cert.efset.org/mwhpdb}}
     \end{itemize}
-    \section{Publications}
-
-
-
-        
-        \begin{samepage}
-            \begin{twocolentry}{
-                Jan 2004
-            }
-                \textbf{3D Finite Element Analysis of No-Insulation Coils}
-            \end{twocolentry}
-
-            \vspace{0.10 cm}
-            
-            \begin{onecolentry}
-                \mbox{Frodo Baggins}, \mbox{\textbf{\textit{John Doe}}}, \mbox{Samwise Gamgee}
-
-                \vspace{0.10 cm}
-                
-        \href{https://doi.org/10.1109/TASC.2023.3340648}{10.1109/TASC.2023.3340648}
-        \end{onecolentry}
-        \end{samepage}
-
-
     
-    \section{Projects}
-
-
-
-        
-        \begin{twocolentry}{
-            \href{https://github.com/sinaatalay/rendercv}{github.com/name/repo}
-        }
-            \textbf{Multi-User Drawing Tool}\end{twocolentry}
-
-        \vspace{0.10 cm}
-        \begin{onecolentry}
-            \begin{highlights}
-                \item Developed an electronic classroom where multiple users can simultaneously view and draw on a "chalkboard" with each person's edits synchronized
-                \item Tools Used: C++, MFC
-            \end{highlights}
-        \end{onecolentry}
-
-
-        \vspace{0.2 cm}
-
-        \begin{twocolentry}{
-            \href{https://github.com/sinaatalay/rendercv}{github.com/name/repo}
-        }
-            \textbf{Synchronized Desktop Calendar}\end{twocolentry}
-
-        \vspace{0.10 cm}
-        \begin{onecolentry}
-            \begin{highlights}
-                \item Developed a desktop calendar with globally shared and synchronized calendars, allowing users to schedule meetings with other users
-                \item Tools Used: C\#, .NET, SQL, XML
-            \end{highlights}
-        \end{onecolentry}
-
-
-        \vspace{0.2 cm}
-
-        \begin{twocolentry}{
-            2002
-        }
-            \textbf{Custom Operating System}\end{twocolentry}
-
-        \vspace{0.10 cm}
-        \begin{onecolentry}
-            \begin{highlights}
-                \item Built a UNIX-style OS with a scheduler, file system, text editor, and calculator
-                \item Tools Used: C
-            \end{highlights}
-        \end{onecolentry}
-
-
-
-    
-    \section{Technologies}
-
-
-
-        
-        \begin{onecolentry}
-            \textbf{Languages:} C++, C, Java, Objective-C, C\#, SQL, JavaScript
-        \end{onecolentry}
-
-        \vspace{0.2 cm}
-
-        \begin{onecolentry}
-            \textbf{Technologies:} .NET, Microsoft SQL Server, XCode, Interface Builder
-        \end{onecolentry}
-
-
-    
-
 \end{document}

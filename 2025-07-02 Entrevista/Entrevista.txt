@@ -1,0 +1,45 @@
+// Atividade:
+
+Características: Pensativo, Reflexivo, Lógico
+Valores: Conhecimento, Respeito por si e pelo próximo, Disciplina
+
+1. Introduce yourself and describe your experience.
+I'm Bruno and, having a Data Science degree, advanced profiency in English and coursing System Development, I seek to improve my Java, SQL, Javascript, Python, HTML and CSS skills.
+
+Sou Bruno e, como graduado em Ciência de Dados, cursando Desenvolvimento de Sistemas e com Inglês avançado, desejo desenvolver minhas habilidades em Java, SQL, Javascript, Python, HTML, CSS e entre outros.
+
+2. Languages you are most proficient.
+SQL (Intermediary)
+Java (Basic)
+Javascript (Basic)
+CSS (Intermediary)
+HTML (Intermediary)
+Python (Intermediary)
+
+3. Challenging technical problem you solved.
+A challenging technical problem I solved was trying to save and load the data of players in a side-game I was working on, as a hobby.
+
+4. Are you updated with the latest news (both technology and common ones)?
+I try to to stay updated as much as I can, mostly about A.I. subjects.
+
+5. Do you know Agile methodologies?
+I got to know Jira. Which I made, with a group of people, to be notified about the progress of our on-going project at that time.
+
+6. What are your biggest academics/professional achievement?
+As a personal project, I was able to develop a system which allow users to redeem daily rewards from certain websites automatically.
+
+7. Why you're a good fit for this role?
+I'm a good fit for this role because I can learn easily anything that I might not know already because of the English proficiency I have.
+
+// Perguntas ao entrevistador:
+Como você descreveria a cultura da empresa?
+Qual a flexibilidade de horário, como é o ambiente de trabalho, como é o dress code.
+A empresa organiza algum treinamento?
+Quais as oportunidades dentro da empresa?
+Posso entrar em contato caso tenha outras dúvidas?
+
+// Depois da entrevista
+Agradeça a oportunidade em participar do processo seletivo.
+Se coloque à disposição para as próximas etapas.
+Cheque o email e fica atento ao celular.
+Não compartilhe detalhes da entrevista na internet, nem com outros processos seletivos.
